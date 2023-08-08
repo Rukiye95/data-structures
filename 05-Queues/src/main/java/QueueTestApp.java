@@ -11,7 +11,7 @@ public class QueueTestApp {
         System.out.println(" Removed item from Queue is :  "+myQueue.dequeue());
         HashMap<Integer, String> a=new HashMap<>();
         a.put(1, "Sergui");
-        System.out.println(a.containsValue("Sergui"))
-    ;
+        System.out.println(a.containsValue("Sergui"));
+
     }
 }
